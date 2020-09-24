@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+This is a project on a CBT Quiz application model, revealing user scores, correct answers, wrong answer and using data fetched from https://opentdb.com API
+
 ## Available Scripts
 
 In the project directory, you can run:
